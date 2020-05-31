@@ -1,0 +1,5 @@
+mq.host=local
+mq.username=wangzhiming
+mq.password=wangtian520
+mq.port=5672
+mq.vhost=testhost

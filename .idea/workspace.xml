@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfdf7a15-274f-43e3-bc02-7728c061eb6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven\repository" />
+        <option name="mavenHome" value="G:/java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQpYhIvjic4wOCDCx9GrUtSASV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wzm.rabbitmq.confirm" />
+      <recent name="com.wzm.rabbitmq.topic" />
+      <recent name="com.wzm.rabbitmq.direct" />
+      <recent name="com.wzm.rabbitmq.ps" />
+      <recent name="com.wzm.rabbitmq.work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Recv1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzm.rabbitmq.confirm.Recv1" />
+      <module name="RabbitMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzm.rabbitmq.confirm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzm.rabbitmq.confirm.Recv3" />
+      <module name="RabbitMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzm.rabbitmq.confirm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzm.rabbitmq.confirm.Send2" />
+      <module name="RabbitMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzm.rabbitmq.confirm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzm.rabbitmq.confirm.Send3" />
+      <module name="RabbitMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzm.rabbitmq.confirm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzm.rabbitmq.spring.test" />
+      <module name="RabbitMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzm.rabbitmq.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_RabbitMQ" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54101" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Send3" />
+        <item itemvalue="Application.Recv3" />
+        <item itemvalue="Application.Send2" />
+        <item itemvalue="Application.Recv1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfdf7a15-274f-43e3-bc02-7728c061eb6c" name="Default Changelist" comment="" />
+      <created>1586677720570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586677720570</updated>
+      <workItem from="1586677728723" duration="5053000" />
+      <workItem from="1586875058253" duration="949000" />
+      <workItem from="1586952010136" duration="15000" />
+      <workItem from="1587176432951" duration="25000" />
+      <workItem from="1587730354897" duration="2334000" />
+      <workItem from="1587733898177" duration="209000" />
+      <workItem from="1587737865191" duration="600000" />
+      <workItem from="1587778671924" duration="18671000" />
+      <workItem from="1587901230519" duration="66000" />
+      <workItem from="1588857359172" duration="153000" />
+      <workItem from="1589084477738" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1587901283169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587901283169" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586678166572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586678166572" />
+    <state x="419" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587805613291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="419" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587805613291" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1587806103833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587806103833" />
+    <state width="1322" height="156" key="GridCell.Tab.0.bottom" timestamp="1587817029833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587817029833" />
+    <state width="1322" height="156" key="GridCell.Tab.0.center" timestamp="1587817029833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587817029833" />
+    <state width="1322" height="156" key="GridCell.Tab.0.left" timestamp="1587817029833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587817029833" />
+    <state width="1322" height="156" key="GridCell.Tab.0.right" timestamp="1587817029833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587817029833" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1587817029810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587817029810" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1587817029809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587817029809" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1587817029809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587817029809" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1587817029810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587817029810" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1587176453069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587176453069" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1589084477650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589084477650" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1587738291614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1587738291614" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1587734055339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587734055339" />
+  </component>
+</project>
